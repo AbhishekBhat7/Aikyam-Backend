@@ -59,4 +59,4 @@ jobs:
           app-name: 'Aikyam'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B034DB83FF00481A982D86C192885A43 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E490ED32FC24F9E858E196EFC729B05 }}
